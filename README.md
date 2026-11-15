@@ -1,69 +1,52 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Olá, sou Vinicius Zorzetto
 
-###
+Estudante de **Engenharia de Software na PUC-Campinas**, com conclusão prevista para novembro de 2027, e participante da **Residência Tecnológica em Inteligência Artificial da PUC-Campinas / Instituto Eldorado**.
 
-<div align="center">
-  <a href="www.linkedin.com/in/vinicius-zorzetto-54399b303" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="zorzettovinicius@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="19999766698" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-</div>
+Busco uma oportunidade de **estágio em Engenharia de Software com foco em Inteligência Artificial**. Tenho experiência em projetos acadêmicos de Machine Learning, processamento de linguagem natural e integração de modelos de linguagem a aplicações.
 
-###
+## Projetos de inteligência artificial
 
-<h1 align="center">Hello, World! 🌍</h1>
+### Dør - Assistente de consulta a documentos institucionais
+Sistema RAG para consultar documentos da PUC-Campinas e gerar respostas fundamentadas nos conteúdos recuperados.
 
-###
+- Extração de PDFs com PyMuPDF, divisão em chunks e embeddings com MiniLM.
+- Recuperação vetorial com ChromaDB, reranking e contexto por trechos vizinhos.
+- Integração do LLM Qwen com Hugging Face Transformers.
 
-<h3 align="left">👩‍💻  About Me</h3>
+**Tecnologias:** Python, RAG, ChromaDB, MiniLM, PyMuPDF e Hugging Face Transformers.
 
-###
+### Vinagre - Classificação de notícias falsas
+Projeto de Machine Learning para classificação de notícias verdadeiras e falsas a partir do Fake.Br Corpus.
 
-<p align="left">🎓 Estudante do 3º ano de Engenharia de Software – PUC-Campinas  <br><br>Sou movido por tecnologia e pelo desafio de transformar ideias em soluções funcionais. Ao longo da graduação, venho desenvolvendo projetos utilizando Java, Kotlin,  Java,   C++, Python, Banco de dados sempre buscando escrever código organizado, escalável e bem estruturado.<br><br>Atualmente, estou em busca de uma oportunidade de estágio em Desenvolvimento de Software para continuar evoluindo como desenvolvedor e participar de projetos desafiadores..</p>
+- Preparação e limpeza de dados com Python e Pandas.
+- Extração de características com TF-IDF e classificação com LinearSVC.
+- Avaliação por métricas de desempenho e testes com notícias externas ao treino.
 
-###
+**Tecnologias:** Python, Pandas e Scikit-learn.
 
-<h3 align="left">🛠 Language and tools</h3>
+### ScholarCode - Avaliação automatizada de atividades
+Plataforma de atividades de programação com feedback por LLMs, integrando backend Java / Spring Boot a uma API Python conectada ao Ollama, com autenticação, persistência em MongoDB Atlas e painéis para professores e alunos.
 
-###
+**Tecnologias:** Java, Spring Boot, Python, Ollama e MongoDB Atlas.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="neo4j logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+### LIAD - Recomendação inteligente para e-commerce
+Sistema com IA para recomendar produtos a partir de descrições em linguagem natural, com Text-to-Speech e diretrizes WCAG de acessibilidade.
 
-###
+**Tecnologias:** JavaScript, ASP.NET Web API e Text-to-Speech.
+
+## Outros projetos
+
+- **[Impressão de Etiquetas](https://github.com/Vzorzettoo/ImpressaoDeEtiquetas):** sistema web para cadastro de produtos, controle de lotes e geração de etiquetas em PDF, com Next.js, React e SQLite.
+- **[Barra de Limite](https://github.com/Vzorzettoo/BarraDeLimite):** interface Android interativa desenvolvida com Kotlin e Jetpack Compose.
+- **[QR Code Component](https://github.com/Vzorzettoo/FrontendMentor-Qr-code):** exercício de interface com HTML e CSS do Frontend Mentor.
+
+## Competências técnicas
+
+- **IA e dados:** Python, Machine Learning, PLN, LLMs, RAG, Scikit-learn, Pandas, NumPy, TF-IDF, embeddings, ChromaDB, Hugging Face Transformers e Ollama.
+- **Desenvolvimento:** Java, Spring Boot, JavaScript, TypeScript, APIs REST, Node.js, React e Next.js.
+- **Bancos e ferramentas:** SQL, SQLite, MongoDB, Firebase, Git, GitHub e Postman.
+
+## Contato
+
+- **E-mail:** [zorzettovinicius@gmail.com](mailto:zorzettovinicius@gmail.com)
+- **GitHub:** [Vzorzettoo](https://github.com/Vzorzettoo)
